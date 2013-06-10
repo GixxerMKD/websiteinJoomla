@@ -16,7 +16,6 @@ include($this['path']->path('layouts:template.config.php'));
 <head>
 <?php echo $this['template']->render('head'); ?>
 </head>
-
 <body id="page" class="page <?php echo $this['config']->get('body_classes'); ?>" data-config='<?php echo $this['config']->get('body_config','{}'); ?>'>
 
 	<?php if ($this['modules']->count('absolute')) : ?>
@@ -26,9 +25,11 @@ include($this['path']->path('layouts:template.config.php'));
 	<?php endif; ?>
 	
 	<div class="wrapper clearfix">
-
 		<header id="header">
 
+<!--INI #####Cintillo##### -->
+<div class="cintillo"> </div>
+<!--END #####Cintillo##### -->
 			<?php if ($this['modules']->count('toolbar-l + toolbar-r') || $this['config']->get('date')) : ?>
 			<div id="toolbar" class="clearfix">
 

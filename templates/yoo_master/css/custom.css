@@ -3,3 +3,12 @@
 /*
  * Custom Style Sheet - Use this file to style your content
  */
+
+/*################################################################*/
+                         /*Cintillo*/
+div.cintillo{
+  background-image: url("../../../images/cintillo/logo-gob.png");
+  background-repeat: no-repeat;
+  height: 54px;width: 977px;
+}
+/*#################################################################*/

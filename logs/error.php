@@ -5,3 +5,4 @@
 
 #Fields: date	time	priority	clientip	category	message
 2013-06-07	12:04:59	INFO	10.16.17.110	Joomla FAILURE: 	Empty password not allowed
+2013-06-10	13:18:40	INFO	10.16.17.110	Joomla FAILURE: 	El usuario y contraseña no coinciden o usted aún no tiene una cuenta.
