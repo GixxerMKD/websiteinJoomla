@@ -105,9 +105,9 @@ include($this['path']->path('layouts:template.config.php'));
 				<section id="breadcrumbs"><?php echo $this['modules']->render('breadcrumbs'); ?></section>
 				<?php endif; ?>
 
-				<?php if ($this['config']->get('system_output')) : ?>
+				<!--<?php if ($this['config']->get('system_output')) : ?>
 				<section id="content" class="grid-block"><?php echo $this['template']->render('content'); ?></section>
-				<?php endif; ?>
+				<?php endif; ?>-->
 
 				<?php if ($this['modules']->count('innerbottom')) : ?>
 				<section id="innerbottom" class="grid-block"><?php echo $this['modules']->render('innerbottom', array('layout'=>$this['config']->get('innerbottom'))); ?></section>
