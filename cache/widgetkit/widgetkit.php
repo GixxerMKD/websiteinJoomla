@@ -1,1 +1,1 @@
-{"update_check":"34b5614050fc29c9ac96bf533f07a89d","update_data":"{\"status\":\"update-available\",\"message\":\"New version available! <a href=\\\"http:\\\/\\\/www.yootheme.com\\\" target=\\\"_blank\\\">Download Joomla 2.5\\\/3.1 Extension 1.4.5<\\\/a>\"}"}
+{"update_check":"1e71f2cd92bce69a0ff3578a44bf99c3","update_data":"{\"status\":\"update-available\",\"message\":\"New version available! <a href=\\\"http:\\\/\\\/www.yootheme.com\\\/widgetkit\\\/downloads\\\" target=\\\"_blank\\\">Download Widgetkit 1.4.5<\\\/a>\"}"}
